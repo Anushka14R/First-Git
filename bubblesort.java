@@ -18,7 +18,3 @@ public class bubblesort {
     }
 
 }
-#Anushka's comment
-#Deva
-#jeenekehainchardinwoaohohohohohoh
-#bakihainbekardin
